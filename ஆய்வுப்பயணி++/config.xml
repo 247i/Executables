@@ -70,7 +70,7 @@
 		<Setting name="ViewModeGlobal">1</Setting>
 	</Settings>
 	<WindowPosition>
-		<Setting name="Position" Flags="0" ShowCmd="1" MinPositionX="0" MinPositionY="0" MaxPositionX="-1" MaxPositionY="-1" NormalPositionLeft="-4" NormalPositionTop="81" NormalPositionRight="1865" NormalPositionBottom="1118"/>
+		<Setting name="Position" Flags="0" ShowCmd="1" MinPositionX="0" MinPositionY="0" MaxPositionX="-1" MaxPositionY="-1" NormalPositionLeft="-4" NormalPositionTop="81" NormalPositionRight="1296" NormalPositionBottom="821"/>
 	</WindowPosition>
 	<Tabs>
 		<Tab name="0" Directory="::{20D04FE0-3AEA-1069-A2D8-08002B30309D}" ApplyFilter="no" AutoArrange="yes" Filter="" FilterCaseSensitive="no" ShowHidden="yes" ShowInGroups="no" SortAscending="yes" SortMode="1" ViewMode="3" Locked="no" AddressLocked="no" UseCustomName="no" CustomName="">
@@ -116,5 +116,6 @@
 		<ColorRule name="Encrypted files" FilenamePattern="" CaseInsensitive="no" Attributes="16384" r="0" g="128" b="0"/>
 	</ColorRules>
 	<State>
+		<DialogState name="DisplayColors" PosX="319" PosY="275" Width="669" Height="401"/>
 	</State>
 </ExplorerPlusPlus>
